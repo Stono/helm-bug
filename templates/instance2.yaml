@@ -1,0 +1,7 @@
+apiVersion: stono.io/v1
+kind: Example
+metadata:
+  name: example2
+  namespace: default 
+spec:
+  name: valid 
